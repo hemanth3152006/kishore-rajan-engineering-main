@@ -66,8 +66,8 @@ const ContactSection = () => {
     {
       icon: Phone,
       label: "Phone",
-      value: "+91 7200591333",
-      href: "tel:+917200591333",
+      value: "+91 72005 XXXXXX",
+      href: "tel:+9172005XXXXX",
     },
     {
       icon: Linkedin,
@@ -78,7 +78,7 @@ const ContactSection = () => {
     {
       icon: MapPin,
       label: "Location",
-      value: "Erode, Tamil Nadu, India",
+      value: "Vandavasi, Tamil Nadu, India",
       href: null,
     },
   ];
